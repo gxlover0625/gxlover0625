@@ -23,7 +23,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,cpp,spring,vue,redis,django&theme=light" />
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Code every day!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Code%20every%20day!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 <!--
